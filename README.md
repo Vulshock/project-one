@@ -13,7 +13,7 @@
       -Questions:
         - Do viewers and critics agree on if a movie is good?
         - Does runtime affect a movies rating?
-        - Within a genre what (work on this)
+        - What genre is the most profitable
 ## Process:
   - Through the use of jupyter notebooks and python we looked into:
         - Merging csvs to find the full list of information of a movie
