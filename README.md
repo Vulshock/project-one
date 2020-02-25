@@ -16,17 +16,17 @@
         - Within a genre what (work on this)
 ## Process:
   - Through the use of jupyter notebooks and python we looked into:
-        # - Merging csvs to find the full list of information of a movie
-        # - Manipulation of dataframes to gather relevant points of data including:
-          #  - Name of movie
-          #  - Studio
-          #  - Critic rating (tomatometer)
-          #  - Audience rating
-          #  - Runtime
-          #  - Budget
-          #  - Revenue
-          #  - Year of Release
-       -Building graphs to provide visual representation of our answers
+        - Merging csvs to find the full list of information of a movie
+        - Manipulation of dataframes to gather relevant points of data including:
+           - Name of movie
+           - Studio
+           - Critic rating (tomatometer)
+           - Audience rating
+           - Runtime
+           - Budget
+           - Revenue
+           - Year of Release
+        - Building graphs to provide visual representation of our answers
 ## Conclusion
   - Through our manipulation of these data sets we found that:
         - Runtimes of movies have no affect on how it is critically scored
