@@ -5,7 +5,7 @@
 
 ## Files
   - Rotten Tomatoes.ipynb
-  - Image Files
+  - Image Folder
   - rotten_tomatoes_movies.csv
   - tmdb_movies_data.csv
 ### Goals:
